@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScoreZone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_team">home team</string>
+    <string name="away_team">away team</string>
+    <string name="_00_00">00:00</string>
+</resources>
